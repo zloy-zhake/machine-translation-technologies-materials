@@ -1,12 +1,13 @@
 # Machine Translation Technologies - suplementary materials
 
-##Subject Content
+## Subject Content
 
 ### 1. Overview of machine translation problems
 * Заметки об NLP: [1](https://habr.com/ru/post/79790/), [2](https://habr.com/ru/post/79819/), [3](https://habr.com/ru/post/79830/), [4](https://habr.com/ru/post/79853/), [5](https://habr.com/ru/post/79882/), [6](https://habr.com/ru/post/79923/), [7](https://habr.com/ru/post/79962/), [8](https://habr.com/ru/post/80081/), [9](https://habr.com/ru/post/80268/), [10](https://habr.com/ru/post/82068/)
 * [Machine translation on wikipedia](https://en.wikipedia.org/wiki/Machine_translation)
 
 ### 2. Rule-based machine translation
+
 #### 2.1 Basic concepts of RBMT
 * [General introduction into Machine translation](https://svn.code.sf.net/p/apertium/svn/branches/courses/helsinki_2013/slides/session0.pdf)
 * [Apertium for Dummies](http://wiki.apertium.org/wiki/Apertium_for_Dummies)
@@ -24,8 +25,8 @@
 #### 2.3 Overview of resources needed for RBMT
 * [Some general resources](http://wiki.apertium.org/wiki/Resources)
 * [Some resources for Kazakh](http://wiki.apertium.org/wiki/Kazakh)
-* [Data consistency and quality](file:///home/zhake/Desktop/session7a.pdf)
-* [Evaluation of machine translation](file:///home/zhake/Desktop/session7b.pdf)
+* [Data consistency and quality](https://svn.code.sf.net/p/apertium/svn/branches/courses/helsinki_2013/slides/session7a.pdf)
+* [Evaluation of machine translation](https://svn.code.sf.net/p/apertium/svn/branches/courses/helsinki_2013/slides/session7b.pdf)
 
 #### 2.4 Apertium machine translation platform
 * [The Apertium machine-translation platform](https://svn.code.sf.net/p/apertium/svn/branches/courses/helsinki_2013/slides/session0a.pdf)
@@ -33,7 +34,7 @@
 * [Apertium workflow reference](http://wiki.apertium.org/wiki/Workflow_reference)
 * [Apertium documentation](http://wiki.apertium.org/wiki/Documentation)
 
-### 3.Statistical machine translation
+### 3. Statistical machine translation
 
 #### 3.1 Basic concepts of SMT
 * [Statistical MT Handbook by Kevin Knight](http://www.isi.edu/natural-language/mt/wkbk.rtf)
@@ -59,7 +60,7 @@
 * [Tutorial for Using Factored Models](http://www.statmt.org/moses/?n=Moses.FactoredTutorial)
 * [Optimizing Moses](http://www.statmt.org/moses/?n=Moses.Optimize)
 
-### 4.Neural machine translation
+### 4. Neural machine translation
 * [Deep learning на пальцах](https://dlcourse.ai/)
 * [fast.ai](https://www.fast.ai/)
 
