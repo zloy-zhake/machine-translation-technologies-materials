@@ -1,4 +1,4 @@
-# Machine Translation Technologies - supplementary materials
+# Machine Translation Technologies
 
 ## Subject Content
 
